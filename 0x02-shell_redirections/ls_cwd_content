@@ -1,0 +1,18 @@
+total 63
+-rw------- 1 u0_a257 u0_a257   39 Sep  5 22:55 #8-cwd_state#
+drwx------ 2 u0_a257 u0_a257 3488 Sep  5 23:18 .
+drwx------ 4 u0_a257 u0_a257 3488 Sep  5 19:41 ..
+-rwx------ 1 u0_a257 u0_a257   33 Sep  5 19:59 0-hello_world
+-rwx------ 1 u0_a257 u0_a257   28 Sep  5 21:01 1-confused_smiley
+-rwx------ 1 u0_a257 u0_a257   29 Sep  5 21:21 2-hellofile
+-rwx------ 1 u0_a257 u0_a257   39 Sep  5 21:37 3-twofiles
+-rwx------ 1 u0_a257 u0_a257   33 Sep  5 21:45 4-lastlines
+-rwx------ 1 u0_a257 u0_a257   33 Sep  5 21:50 5-firstlines
+-rwx------ 1 u0_a257 u0_a257   40 Sep  5 21:58 6-third_line
+-rwx------ 1 u0_a257 u0_a257   99 Sep  5 23:09 7-file
+-rwx------ 1 u0_a257 u0_a257   36 Sep  5 23:17 8-cwd_state
+-rw------- 1 u0_a257 u0_a257   16 Sep  5 19:56 README.md
+-rw------- 1 u0_a257 u0_a257   12 Sep  5 22:30 \*\\'" "\'\\*$\?\*\*\*\*\*:)
+-rw------- 1 u0_a257 u0_a257   12 Sep  5 22:47 \*\\'"Best School "\'\\*$\?\*\*\*\*\*:)
+-rw------- 1 u0_a257 u0_a257   12 Sep  5 23:10 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw------- 1 u0_a257 u0_a257    0 Sep  5 23:18 ls_cwd_content
